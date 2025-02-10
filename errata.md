@@ -1,3 +1,0 @@
-Change the fourth sentence in second paragraph to:
-
-The subsequent enumerators have the values of 1, 2, ...
